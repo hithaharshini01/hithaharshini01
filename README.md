@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hitha Harshini Goolla</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A DevOps enthusiast passionate about building scalable, automated, and resilient infrastructure. Currently focused on learning and implementing CI/CD, Docker, Kubernetes, and AWS.”</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hithaharshini01&label=Profile%20views&color=0e75b6&style=flat" alt="hithaharshini01" /> </p>
 
